@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+- Hello, my name is George Karam. I am a full stack developer. I work with MVC design patterns in the Laravel framework.
 <!--
 **georgeakramhanna/georgeakramhanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
